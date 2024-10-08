@@ -13,6 +13,6 @@ public class HelloController {
     @GetMapping
     public String sayHello() {
         System.out.println("hello!!");
-        return "Hello, World!!! ver2 ";
+        return "Hello, World!!! ver3 my-first-pipeline";
     }
 }
